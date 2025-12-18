@@ -4,7 +4,7 @@ import Button from '../../../components/ui/Button';
 
 const Hero = () => {
   return (
-    <div className="">
+    <div className="pb-28">
       {/* Background Video Container */}
       <div className="absolute top-10 -z-50 w-screen h-screen ">
         <video autoPlay muted loop className="w-full h-full object-cover">
